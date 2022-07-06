@@ -165,30 +165,34 @@
     text-align: justify;
 }
 
-.submit-form{
- text-align:center;
+.submit-form {
+    text-align: center;
 }
-.submit-button{
-    height:150px;
-    width:700px;
+
+.submit-button {
+    height: 150px;
+    width: 700px;
     background: #ffffc6;
-    margin:0 auto;
+    margin: 0 auto;
 }
-.input-sizing{
+
+.input-sizing {
     padding-top: 55px;
-    display:table;
-    margin-left:165px;
+    display: table;
+    margin-left: 165px;
 }
-.submit-button input{
+
+.submit-button input {
     padding: 10px 10px;
     width: 200px;
-    border:none;
+    border: none;
     background: #e1e0e0;
     border-bottom-left-radius: 5px;
     border-top-left-radius: 5px;
-    outline:none;
+    outline: none;
 }
-.submit-button button{
+
+.submit-button button {
     padding: 8px 35px;
     background: tomato;
     border: none;
@@ -196,50 +200,60 @@
     font-size: 15px;
     border-bottom-right-radius: 5px;
     border-top-right-radius: 5px;
-    cursor:pointer;
+    cursor: pointer;
 }
-.submit-form{
-    margin-bottom:100px;
+
+.submit-form {
+    margin-bottom: 100px;
 }
-.button{
-    padding:10px 20px;
-    background:red;
-    color:white;
+
+.button {
+    padding: 10px 20px;
+    background: red;
+    color: white;
 }
-.submit-form p{
-    padding-bottom:25px;
-    padding-top:10px;
-    color:#9d9d9d;
+
+.submit-form p {
+    padding-bottom: 25px;
+    padding-top: 10px;
+    color: #9d9d9d;
 }
-.submit-form h1{
-    font-size:38px;
+
+.submit-form h1 {
+    font-size: 38px;
 }
-footer{
-    height:170px;
-    width:100%;
-    background:black;
+
+footer {
+    height: 170px;
+    width: 100%;
+    background: black;
 }
-footer h1{
-    color:#ef5f45;
-    text-align:center;
-    padding-top:25px;
-    padding-bottom:8px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+footer h1 {
+    color: #ef5f45;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 8px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
-footer p{
-    text-align:center;
-    color:#9d9d9d;
+
+footer p {
+    text-align: center;
+    color: #9d9d9d;
 
 }
-.practice2{
-    width:300px;
-    background-color:orange;
-    display:table;
+
+.practice2 {
+    width: 300px;
+    background-color: orange;
+    display: table;
 }
-.btn-sizing{
-    margin-top:50px;
+
+.btn-sizing {
+    margin-top: 50px;
 }
+
 .latest-img {
     height: 80px;
     width: 80px;
@@ -247,70 +261,79 @@ footer p{
     border-radius: 80px;
     margin: 0 auto;
 }
-.latest-contant{
+
+.latest-contant {
     display: flex;
     width: 100%;
     justify-content: center;
 }
-.latest-services h1{
-    text-align:center;
+
+.latest-services h1 {
+    text-align: center;
     margin-bottom: 50px;
-    font-size:38px;
-    color:#6a4e06;
-}
-.latest-services{
-    margin-bottom:70px;
+    font-size: 38px;
+    color: #6a4e06;
 }
 
-.latest-part1{
-    
-        height: 220px;
-        width: 280px;
-        margin-left:25px;
+.latest-services {
+    margin-bottom: 70px;
 }
 
-.h5{
-    text-align:center;
-    padding-top:25px;
-    font-size:17px;
+.latest-part1 {
+
+    height: 220px;
+    width: 280px;
+    margin-left: 25px;
 }
-.latest-p{
-    text-align:center;
+
+.h5 {
+    text-align: center;
+    padding-top: 25px;
+    font-size: 17px;
 }
-.latest-part1 img{
+
+.latest-p {
+    text-align: center;
+}
+
+.latest-part1 img {
     width: 50%;
     padding: 19px;
-    
+
 }
-.images-gallary{
+
+.images-gallary {
     display: flex;
     margin-left: 2%;
 }
 
-.voluntrees{
-    height:400px;
-    width:100%;
-    margin-bottom:50px;
+.voluntrees {
+    height: 400px;
+    width: 100%;
+    margin-bottom: 50px;
 }
-.images-gallary img{
+
+.images-gallary img {
     width: 30%;
     height: 100%;
     margin-left: 30px;
     box-shadow: 10px 10px 30px grey;
     border-radius: 15px;
-    position:relative;
-   
+    position: relative;
+
 
 }
-.voluntrees h1{
-    text-align:center;
-    margin-bottom:25px;
-    font-size:38px;
-    color:black;
+
+.voluntrees h1 {
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 38px;
+    color: black;
 }
-.name{
-    height:50px;
-    width:300px;
-    background-color:red;
+
+.name {
+    height: 50px;
+    width: 300px;
+    background-color: red;
 
 }
