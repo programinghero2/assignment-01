@@ -1,0 +1,161 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins', sans-serif;
+}
+.top-banner{
+    background: url(images/banner2.webp);
+    height:550px;
+    width:100%;
+    position:relative;
+    background-repeat: no-repeat;
+    background-size:cover;
+  
+  
+
+}
+.top-content{
+    background: linear-gradient(to top right,#00000069,#000000a6);
+    width:100%;
+    height:100%;
+    position:absolute;
+}
+.top-text{
+    color:#fff;
+    font-size:35px;
+    font-weight:700;
+    text-align:center;
+    padding-top:80px;
+
+}
+.top-content{
+    text-align:center;
+}
+.top-content p{
+    color:#dfd7d7;
+    padding-bottom:25px;
+}
+
+.link-button{
+    text-decoration:none;
+    padding: 14px 20px;
+    border-radius: 8px;
+    color:#fff;
+    font-weight:700;
+    background-image: linear-gradient(#E74C3C,#E74C3C);
+}
+.donate-today{
+    padding-top: 80px;
+    margin-bottom:50px;
+    
+}
+.donate-text{
+    text-align:center;
+    
+
+}
+.donate-text h1{
+   font-size:38px;
+   padding-bottom:5px;
+   color:darkgoldenrod;
+  
+}
+.donate-text p{
+    color: #726666;
+}
+.donate-list{
+    list-style:none;
+    display:flex;
+    justify-content: center;
+    padding-top:20px;
+    
+}
+.donate-list li {
+    margin-left: 40px;
+    font-size: 26px;
+    font-weight: 900;
+    
+}
+.color-border {
+    padding: 30px 20px;
+    border: 2px solid tomato;
+    border-radius: 5px;
+    background-color: #ff634721;
+    color: red;
+    margin-bottom: 50px;
+}
+.list-sizing{
+    padding-top:33px;
+    color: #726666;
+}
+#p-color{
+    color:#726666c7;
+    text-align:center;
+    padding-bottom:8px;
+}
+.donate-button hr{
+    margin-left:375px;
+}   
+#button-sizing{
+    text-align:center;
+    padding-top:40px;
+}
+
+
+/* 
+.top-content{
+    display:flex;
+}
+.color-overly{
+    background: linear-gradient(to top right,#00000069,#000000a6);
+    width:100%;
+    height:100%;
+    position:absolute;
+}
+.top-content h1{
+    z-index:1;
+    color:#fff;
+    font-weight:700;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 150px;
+    font-size:40px;
+}
+.top-content p{
+    z-index:1;
+    color:#fff;
+    font-weight:700;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 150px;
+   
+}
+.flex-none {
+    display:block;
+}
+*/
+
+
+/* 
+<div class="flex">
+<div class="top-content">
+    <h1 class="blog">Let,s Help Those Who Are<br>
+        More In Need
+    </h1>
+    <div class="flex-none">
+        <p >
+            Currently, there is a terrible flood situation in Bangladesh.<br>
+             Let's all come forward and stand by their side.  
+        </p>
+
+    </div>
+   
+    <div class="color-overly"></div>
+
+
+</div>
+
+</div>
+ */
