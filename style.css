@@ -211,6 +211,9 @@
     padding-top:10px;
     color:#9d9d9d;
 }
+.submit-form h1{
+    font-size:38px;
+}
 footer{
     height:170px;
     width:100%;
@@ -256,7 +259,7 @@ footer p{
     color:#6a4e06;
 }
 .latest-services{
-    margin-bottom:50px;
+    margin-bottom:70px;
 }
 
 .latest-part1{
@@ -278,4 +281,28 @@ footer p{
     width: 50%;
     padding: 19px;
     
+}
+.images-gallary{
+    display: flex;
+    margin-left: 2%;
+}
+
+.voluntrees{
+    height:400px;
+    width:100%;
+    margin-bottom:50px;
+}
+.images-gallary img{
+    width: 30%;
+    height: 100%;
+    margin-left: 30px;
+    box-shadow: 10px 10px 30px grey;
+    border-radius: 15px;
+   
+
+}
+.voluntrees h1{
+    text-align:center;
+    margin-bottom:25px;
+    font-size:38px;
 }
