@@ -176,6 +176,8 @@
 }
 .input-sizing{
     padding-top: 55px;
+    display:table;
+    margin-left:165px;
 }
 .submit-button input{
     padding: 10px 10px;
@@ -184,9 +186,10 @@
     background: #e1e0e0;
     border-bottom-left-radius: 5px;
     border-top-left-radius: 5px;
+    outline:none;
 }
 .submit-button button{
-    padding: 9px 35px;
+    padding: 8px 35px;
     background: tomato;
     border: none;
     color: #fff;
@@ -225,4 +228,12 @@ footer p{
     text-align:center;
     color:#9d9d9d;
 
+}
+.practice2{
+    width:300px;
+    background-color:orange;
+    display:table;
+}
+.btn-sizing{
+    margin-top:50px;
 }
