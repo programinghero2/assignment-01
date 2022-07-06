@@ -50,13 +50,11 @@
 
 .donate-today {
     padding-top: 80px;
-    margin-bottom: 50px;
-
+    margin-bottom: 70px;
 }
 
 .donate-text {
     text-align: center;
-
 
 }
 
@@ -127,7 +125,7 @@
 }
 
 .donate-plan {
-    margin-bottom: 50px;
+    margin-bottom: 70px;
 }
 
 .color {
@@ -165,4 +163,66 @@
 
 .donate-text1 p {
     text-align: justify;
+}
+
+.submit-form{
+ text-align:center;
+}
+.submit-button{
+    height:150px;
+    width:700px;
+    background: #ffffc6;
+    margin:0 auto;
+}
+.input-sizing{
+    padding-top: 55px;
+}
+.submit-button input{
+    padding: 10px 10px;
+    width: 200px;
+    border:none;
+    background: #e1e0e0;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.submit-button button{
+    padding: 9px 35px;
+    background: tomato;
+    border: none;
+    color: #fff;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    cursor:pointer;
+}
+.submit-form{
+    margin-bottom:100px;
+}
+.button{
+    padding:10px 20px;
+    background:red;
+    color:white;
+}
+.submit-form p{
+    padding-bottom:25px;
+    padding-top:10px;
+    color:#9d9d9d;
+}
+footer{
+    height:170px;
+    width:100%;
+    background:black;
+}
+footer h1{
+    color:#ef5f45;
+    text-align:center;
+    padding-top:25px;
+    padding-bottom:8px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+footer p{
+    text-align:center;
+    color:#9d9d9d;
+
 }
